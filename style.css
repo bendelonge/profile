@@ -1,0 +1,194 @@
+body {
+  margin: 0;
+  background-color: #f9f7f7;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300; /* if you want the light version */
+}
+
+h1{
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color:#EEF5FD;
+  text-align : center;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  color:#EEF5FD;
+  text-align : center;
+  font-size: 25px;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-style: italic;
+  color:#EEF5FD;
+  text-align : center;
+  font-size: 15px;
+  margin: 0;
+}
+
+p {
+
+}
+
+.container {
+  width : 500px;
+  margin : 0 auto;
+}
+
+.header {
+  background-color: #2b8276;
+  text-align: center;
+  border-radius: 2px;
+  padding: 20px 10px;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+.header > p{
+  padding: 10px 20px;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.shadow {
+  box-shadow: 0px 13px 30px -8px rgba(0,0,0,0.75);
+}
+
+#profile_picture {
+  border-radius : 50%;
+  width : 100px;
+}
+
+.btn-white {
+  background-color: #F7F9FC;
+  border-radius: 4px;
+  padding: 10px 10px;
+  text-decoration: none;
+  color: #2b8276;
+  font-size : 15px;
+}
+
+.btn-white:hover {
+  font-weight: bold;
+}
+
+.social-media-list > ul {
+  padding-left: 0;
+}
+
+.social-media-list > ul > li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.social-media-list > ul > li >a {
+  text-decoration: none;
+  padding: 5px 20px;
+  color: #C4CAD0;
+}
+
+.social-media-list > ul > li >a:hover {
+  color: #F7F9FC;
+}
+.favorites-box {
+  background-color: #2b8276;
+  padding: 0 20px;
+  margin-bottom: 25px;
+}
+
+.favorites-box > i {
+  position: relative;
+  top : -15px;
+  left: -30px;
+  font-size: 40px;
+  color: rgb(10, 10, 10);
+}
+.favorites-box > h2 {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  color:#EEF5FD;
+  text-align : center;
+  font-size: 20px;
+  position: relative;
+  top : -25px;
+}
+
+.playlist {
+  padding: 10px 30px;
+}
+
+.playlist > a {
+  text-decoration: none;
+  text-align: center;
+}
+
+.playlist > img {
+  border-radius : 10%;
+  width : 100px;
+}
+
+.favorites-box > img {
+  position: relative;
+  top : -15px;
+  left: -30px;
+  width: 40px;
+}
+
+
+.sticker {
+  position: relative;
+  top : -15px;
+  left: -30px;
+}
+
+.gifs{
+  margin: 20px;
+}
+
+.about-this-page {
+  margin-top: 10px;
+  background-color:#C4CAD0;
+  padding: 10px 20px;
+  margin-bottom:0;
+
+}
+
+.about-this-page > p {
+  padding: 10px 20px;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.about-this-page > a {
+  text-decoration: none;
+  font-style: bold;
+}
+
+.about-this-page > h2 {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  color:#EEF5FD;
+  text-align : center;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
